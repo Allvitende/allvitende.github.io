@@ -1,0 +1,25 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Brodie Schroeder
+tagline:             'Research Software Engineering Intern at Ames National Laboratory'
+description:         'I am a self taught software engineer and currently a Research Intern at <a href="https://www.ameslab.gov/">Ames National Laboratory</a> as part of the <a href="https://science.energy.gov/wdts/suli/">SULI program</a> sponsored by the <a href="https://energy.gov/">Department of Energy</a>.'
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Brodie Schroeder
+  url:               https://www.linkedin.com/in/brodieschroeder/
+  email:             broschroeder@gmail.com
+
+# Custom vars
+version:             1.0.0
+
+# Gems
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
