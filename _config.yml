@@ -7,7 +7,6 @@ permalink:           pretty
 title:               Brodie Schroeder
 tagline:             'Research Software Engineering Intern at Ames National Laboratory'
 description:         'I am a self taught software engineer and currently a Research Intern at <a href="https://www.ameslab.gov/">Ames National Laboratory</a> as part of the <a href="https://science.energy.gov/wdts/suli/">SULI program</a> sponsored by the <a href="https://energy.gov/">Department of Energy</a>.'
-baseurl:             'allvitende.github.io'
 paginate:            5
 
 # About/contact
