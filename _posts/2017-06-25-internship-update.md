@@ -10,4 +10,4 @@ In my case it is a bit different. My inputs vary in size. The 2D array could be 
 
 As a result, I am thinking of creating a maximum input size of say, 30 x 30 and anything below that size I would fill zeros in the matrix of euclidean distances as fillers and not take molecules greater than 30 x 30 into my training set. This should still produce the same desired outcome, it just is not as clean of a solution as I would have hoped for.
 
-I'll be back next week with (hopefully!) some new code to share with you all.
+I'll be back next week with (hopefully!) some new code to share with you all. Thanks!
